@@ -16,27 +16,19 @@ css: /custom.css
 
 ## Peer-reviewed Articles
 
-Sainz, M., Jiménez-Moya, G., Lobato, R. M., Laffert, A., Vázquez, A., & González, R.
-**Intergroup Contact with People Experiencing Poverty Reduces Hostile but not Benevolent Classism**. Political Psychology. *Accepted for publication*.
-
 
 Castillo, J. C., Canales Sellés, R., Laffert, A., & Urzúa, T. (2026). **Justification trajectories for pension inequality in Chile (2016–2023): the role of social class and beliefs in meritocracy**. [Frontiers in Sociology, 11, 1771856](https://doi.org/10.3389/fsoc.2026.1771856). 
 
 
-Castillo, J. C., Laffert, A., Carrasco, K., & Iturra-Sanhueza, J. (2025). **Perceptions of inequality and meritocracy: their interplay in shaping preferences for market justice in Chile (2016–2023)**. [Frontiers in Sociology, 10, 1634219](https://doi.org/10.3389/fsoc.2025.1634219).
-
-
-Castillo, J. C., Salgado, M., Carrasco, K., & Laffert, A. (2024). **The socialization of meritocracy and market justice preferences at school**. [Societies, 14(11), 214](https://doi .org/10.3390/soc14110214).
+Karle, C., Sánchez-Barría, F., & Canales Sellés, R. (2026). When Protest Becomes Institutionalized: Evidence from the Chilean Student Movement Under Military Rule, 1982–1989. [The Sociological Quarterly, 1–27](https://doi.org/10.1080/00380253.2026.2643335)
 
 ## In Preparation
 
 **Stability and comparability of meritocratic beliefs in school-age students: A measurement invariance approach across time and cohorts**. Andreas Laffert, Juan Carlos Castillo, René Canales, Tomás Urzúa & Kevin Carrasco. *Submited*.
 
-**Preferences for the commodification of pensions in Chile: the role of intergenerational social mobility**. Andreas Laffert. *In progress*.
+**Attitudes towards political violence in the chilean contentious cycle: A longitudinal analysis from education and participation**. René Canales & Daniel Miranda. *In progress*.
 
-**The role of wealth on social cohesion in Chile**. Rafael Carranza, Gabriel Otero & Andreas Laffert. *In progress*.
-
-**Sexualised stereotypes of lower-class**. Mario Sainz, Gloria Jiménez-Moya, Andreas Laffert & Heather E. Bullock. *Under Review*.
+**Youth, Authoritarian Heritage and Democracy: A Multilevel Analysis of the disposition to Institutional Participation in Europe**. René Canales, Ricardo León & Daniel Miranda. *In progress*.
 
 ## Research Reports and Data Visualizations
 
@@ -44,6 +36,8 @@ Urzúa, T., Canales, R., Laffert, A. & Castillo, J. C. (2025). [Documento Metodo
 
 Urzúa, T., Iturra, J., Canales, R., Laffert, A. & Castillo, J.C. (2025). [Visualizador Longitudinal de Cohesión Social en Chile (Release)](https://ocs-coes.shinyapps.io/ocs-viselsoc/). Zenodo. https://doi.org/10.5281/zenodo.17408346
 
-Iturra-Sanhueza, J., Cortés, G., Urzúa, T., Laffert, A. & Castillo, J. C. (2025). [OCSVIS-LA: Visualizador de Cohesión Social para América Latina (release)](https://ocs-coes.shinyapps.io/visualizador-la/). Zenodo. https://doi.org/10.5281/zenodo.17405945
+## Press Articles
+
+Canales, R. & Castillo, J.C. (2025). *La seguridad nace del vínculo social*. [Tercera Dosis](https://terceradosis.cl/2025/10/10/la-seguridad-nace-del-vinculo-social/)
 
 :::

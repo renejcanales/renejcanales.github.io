@@ -3,22 +3,22 @@
 ========================= */
 
 :root {
-  --bg-page: #17181c;          /* negro suave / carbón */
-  --bg-navbar: #7b102b;        /* burdeo */
+  --bg-page: #0a1929;          /* azul marino oscuro / fondo */
+  --bg-navbar: #1a3a52;        /* azul marino navbar */
   --text-color: #f3f3f1;       /* blanco suave */
   --nav-text-color: #ffffff;
-  --link-color: #e6b6c3;       /* rosado suave legible sobre fondo oscuro */
-  --link-hover: #f3d6de;
-  --selection-bg: #6f2940;
+  --link-color: #66b3ff;       /* azul claro legible sobre fondo oscuro */
+  --link-hover: #99ccff;
+  --selection-bg: #2c5aa0;
   --selection-text: #ffffff;
-  --accent-soft: #b86b82;
-  --border-soft: #343840;
-  --dropdown-bg: #22242a;
-  --dropdown-hover: #2d3038;
-  --code-bg: #202228;
-  --code-border: #343840;
-  --input-bg: #23252b;
-  --input-border: #4a4f59;
+  --accent-soft: #4a7ba7;
+  --border-soft: #2c4a63;
+  --dropdown-bg: #142847;
+  --dropdown-hover: #1e3a52;
+  --code-bg: #0f2438;
+  --code-border: #2c4a63;
+  --input-bg: #152d42;
+  --input-border: #3d5a7a;
 }
 
 /* =========================

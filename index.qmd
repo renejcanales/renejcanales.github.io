@@ -1,13 +1,12 @@
 ---
-title: "Andreas Laffert"
+title: "René Canales"
 subtitle: |
   Research assistant \
   [Fondecyt project No. 1250518 "Market Justice and Deservingness of Social Welfare"](https://juancarloscastillo.github.io/jc-quarto/proyectos/posts/fondecyt-jusmer/) \
-  [Wealth and Social Cohesion from a Relational Perspective (WESOREL)](https://www.isi-munich.de/en/research-project/wealth-and-social-cohesion-from-a-relational-perspective) \
-  [Inequality Observatory of the Diego Portales University](https://observatoriodesigualdades.udp.cl/) \
+  [ Norwegian Students' and Academics' International Assistance Fund  (SAIH)](https://www.saih.no/en/who-we-are) \
   University of Chile \
-description-meta: "Andreas Laffert is a Sociologist (University of Chile) and holds an M.A. in Sociology from the Pontifical Catholic University of Chile. He works as a research assistant on the Fondecyt project Market Justice and Deservingness in Social Welfare and on the Chilean partner team of Wealth and Social Cohesion from a Relational Perspective (WESOREL). In addition, he serve as research coordinator at the Inequality Observatory of the Diego Portales University. His research focuses on social stratification, social mobility, wealth, and public attitudes toward the marketization of social services, using quantitative methods that combine observational data, causal inference, and survey experiments."
-image: "files/profile/a2.JPG"
+description-meta: "René Canales is a Sociologist from the Pontifical Catholic University of Chile and holds an M.A. in Sociology from the same institution. He works as a research assistant on the Fondecyt project Market Justice and Deservingness in Social Welfare and on the Norwegian Students' and Academics' International Assistance Fund (SAIH). His research focuses on social stratification, social mobility, wealth, and public attitudes toward the marketization of social services, using quantitative methods that combine observational data, causal inference, and survey experiments."
+image: "files/images/rene_canales_profile.JPG"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -20,26 +19,28 @@ about:
   links:
     - icon: envelope
       text: E-mail
-      href: mailto:andreas.laffert@uchile.cl
+      href: mailto:rene.canales@uc.cl
     - icon: github
       text: Github
-      href: https://github.com/Andreas-Lafferte
-    - icon: mortarboard-fill
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=9zzyCGAAAAAJ&hl=es&oi=sra
+      href: https://github.com/renejcanales
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0009-0002-4299-2725
       target: _blank
 ---
 
 
 ::: {#hero-heading .justify}
 
-Hello, I’m Andreas Laffert Tamayo. I am a sociologist from the University of Chile and hold an M.A. in Sociology from the Pontifical Catholic University of Chile.
+Hello, I’m René Canales Sellés. I am a sociologist from the Pontifical Catholic University of Chile and hold an M.A. in Sociology from the same institution.
 
-My research interests focus on social stratification, social mobility, wealth, and attitudes towards the marketization of social welfare. In particular, I am interested in how people come to see the commodification of key domains of welfare and social reproduction—such as pensions—as legitimate or even preferable, and how social mobility, wealth, and institutional arrangements shape these views. Methodologically, I work primarily with quantitative approaches, combining observational data and causal inference strategies with survey experiments.
+My research focuses on contentious politics, political attitudes, and social stratification. In particular, I study how protest and social movements shape political attitudes and institutional change through processes of education and socialization. Methodologically, I primarily use quantitative approaches, combining observational data with causal inference strategies and survey experiments.
 
-I am currently a research assistant for Fondecyt project No. 1250518 [“Market Justice and Deservingness of Social Welfare”](https://juancarloscastillo.github.io/jc-quarto/proyectos/posts/fondecyt-jusmer/), and for the Chilean partner team of [Wealth and Social Cohesion from a Relational Perspective (WESOREL)](https://www.isi-munich.de/en/research-project/wealth-and-social-cohesion-from-a-relational-perspective), as well as research coordinator at the [Inequality Observatory of Diego Portales University](https://observatoriodesigualdades.udp.cl/). Previously, I worked as a quantitative analyst at Chile’s Subsecretariat of Labour, research assistant on several Fondecyt-funded projects, Coordinator of the [ Social Cohesion Observatory of the Center for the Study of Conflict and Social Cohesion (COES)](https://ocs-coes.com/), and teaching assistant for undergraduate statistics courses in Sociology at the University of Chile. In both individual and collaborative research, I value reproducible practices based on Git, R, and other open-source tools.
+I am currently a research assistant for Fondecyt project No. 1250518 [“Market Justice and Deservingness of Social Welfare”](https://juancarloscastillo.github.io/jc-quarto/proyectos/posts/fondecyt-jusmer/), and for the [Norwegian Students' and Academics' International Assistance Fund (SAIH)](https://www.saih.no/en/who-we-are). Previously, I worked as a research assistant for the [Social Cohesion Observatory of the Center for the Study of Conflict and Social Cohesion (COES)](https://ocs-coes.com/) and the [Laboratory of Social Open Science](lisacoes.cl), both at the [Center of Studies of Social Conflict and Social Cohesion (COES)](https://coes.cl/). In both individual and collaborative research, I value reproducible practices based on Git, R, and other open-source tools.
 
-I was born and raised in [Pedro Aguirre Cerda](https://cerdosacademicos.blogspot.com/2012/04/antecedentes-de-la-comuna.html), a historic district of Santiago, and I currently live in Barrio Yungay (Santiago Centro). Outside academia, I enjoy reading, photography, sports, and drinking mate.
+I recently admitted as a PhD fellow at the [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/) in the [CoPoDi Research Program](https://www.bigsss-bremen.de/academic-program/daad-graduate-school-scholarship-program/copodi-research-and-faculty), supported by the [DAAD Graduate School Scholarship Programme (GSSP)](https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/gssp/), starting in September 2026.
+
+I was born and raised in Santiago de Chile. Outside academia, I enjoy reading, powerlifting, listening to music and attending concerts and festivals.
 
 :::
 

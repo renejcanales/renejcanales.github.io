@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Andreas Laffert – Sociologist and M.A. in Sociology"
-author-meta: "Andreas Laffert"
+description-meta: "René Canales – Sociologist and M.A. in Sociology"
+author-meta: "René Canales"
 
 website:
-  title: "Andreas Laffert"
-  image: "/files/andreas_laffert.jpeg"
-  description: "Andreas Laffert – Sociologist and M.A. in Sociology"
+  title: "René Canales"
+  image: "/files/rene_canales_profile.JPG"
+  description: "René Canales – Sociologist and M.A. in Sociology"
  
   navbar:
     background: dark
@@ -36,30 +36,23 @@ website:
           - text: Presentations
             href: presentations.qmd  
             target: _blank                                  
-      - text: Teaching
-        href: teaching.qmd
-      - text: Community Engagement
-        href: community.qmd 
 
     right: 
       - text: "**CV**"
-        href: files/cv-2-column.pdf
+        href: files/cv-1.pdf
         target: _blank 
       - icon: github
-        href: https://github.com/Andreas-Lafferte
-        target: _blank
-      - icon: mortarboard-fill
-        href: https://scholar.google.com/citations?user=9zzyCGAAAAAJ&hl=es&oi=sra
+        href: https://github.com/renejcanales
         target: _blank
   
   page-navigation: true
   
   page-footer: 
-    center: "[Andreas Laffert](https://andreas-lafferte.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
-    # left: "[Andreas Laffert](https://andreas-lafferte.github.io); <script>document.write(new Date().getFullYear())</script>" 
+    center: "[René Canales](https://renejcanales.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
+    # left: "[René Canales](https://renejcanales.github.io); <script>document.write(new Date().getFullYear())</script>" 
     right:  
        - icon: github
-         href: https://github.com/Andreas-Lafferte
+         href: https://github.com/renejcanales
          target: _blank
     #   - text: "{{< fa brands bluesky >}}" 
     #     href: https://bsky.app/profile/hegang.bsky.social
@@ -76,7 +69,7 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/Andreas-Lafferte/andreas-lafferte.github.io
+  repo-url: https://github.com/renejcanales/renejcanales.github.io
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
@@ -84,7 +77,7 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://andreas-lafferte.github.io"
+  site-url: "https://renejcanales.github.io"
 
 
 bibliography: references.bib
