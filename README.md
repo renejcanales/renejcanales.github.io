@@ -1,3 +1,3 @@
 # Personal Website
  
-Link: https://andreas-lafferte.github.io/renecanales-website/
+Link: https://renejcanales.github.io/renecanales-website/
