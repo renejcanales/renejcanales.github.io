@@ -17,7 +17,7 @@ css: /custom.css
 ## Peer-reviewed Articles
 
 
-Castillo, J. C., Canales Sellés, R., Laffert, A., & Urzúa, T. (2026). **Justification trajectories for pension inequality in Chile (2016–2023): the role of social class and beliefs in meritocracy**. [Frontiers in Sociology, 11, 1771856](https://doi.org/10.3389/fsoc.2026.1771856). 
+Castillo, J. C., Canales Sellés, R., Laffert, A., & Urzúa, T. (2026). Justification trajectories for pension inequality in Chile (2016–2023): the role of social class and beliefs in meritocracy. [Frontiers in Sociology, 11, 1771856](https://doi.org/10.3389/fsoc.2026.1771856). 
 
 
 Karle, C., Sánchez-Barría, F., & Canales Sellés, R. (2026). When Protest Becomes Institutionalized: Evidence from the Chilean Student Movement Under Military Rule, 1982–1989. [The Sociological Quarterly, 1–27](https://doi.org/10.1080/00380253.2026.2643335)
