@@ -12,7 +12,7 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 80%
+  image-width: 100%
   links:
     - icon: envelope
       text: E-mail
@@ -35,7 +35,7 @@ about:
 
 Hello, I’m René Canales Sellés. I am a sociologist from the Pontifical Catholic University of Chile and hold an M.A. in Sociology from the same institution.
 
-Currently, I am a PhD fellow at the [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/) in the [CoPoDi Research Program](https://www.bigsss-bremen.de/academic-program/daad-graduate-school-scholarship-program/copodi-research-and-faculty), at the University of Bremen, Germany. 
+Currently, I am a PhD fellow at the [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/people/phd-fellows/rene-canales) in the [CoPoDi Research Program](https://www.bigsss-bremen.de/academic-program/daad-graduate-school-scholarship-program/copodi-research-and-faculty), at the University of Bremen, Germany. 
 
 
 My research focuses on the relationship between social movements and political attitudes, with a particular interest in how protest and contentious politics shape social cohesion, public opinion and influence institutional change. Methodologically, I primarily use quantitative approaches, combining observational data with causal inference strategies, survey experiments and computational methods.
