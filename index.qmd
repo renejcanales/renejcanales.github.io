@@ -37,15 +37,16 @@ Hello, I’m René Canales Sellés. I am a sociologist from the Pontifical Catho
 
 Currently, I am a PhD fellow at the [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/) in the [CoPoDi Research Program](https://www.bigsss-bremen.de/academic-program/daad-graduate-school-scholarship-program/copodi-research-and-faculty), at the University of Bremen, Germany. 
 
+
 My research focuses on the relationship between social movements and political attitudes, with a particular interest in how protest and contentious politics shape social cohesion, public opinion and influence institutional change. Methodologically, I primarily use quantitative approaches, combining observational data with causal inference strategies, survey experiments and computational methods.
 
 Previously, I worked as a research assistant for the [Social Cohesion Observatory (OCS-COES)](https://ocs-coes.com/) and the [Laboratory of Social Open Science](lisacoes.cl), both at the [Center of Studies of Social Conflict and Social Cohesion (COES)](https://coes.cl/). In both individual and collaborative research, I value reproducible practices based on Git, R, and other open-source tools.
 
-I was born and raised in [Santiago de Chile](https://youtu.be/E4bxx1nRjCg?si=8q8ZuL2jKgHspUvp). Outside academia, I enjoy reading, powerlifting, listening to music and attending concerts and festivals.
+I was born and raised in [Santiago de Chile](https://youtu.be/E4bxx1nRjCg?si=8q8ZuL2jKgHspUvp) and now I live in [Bremen, Germany](https://historyofthegermans.com/126-2/). Outside academia, I enjoy reading, powerlifting, listening to music and attending concerts and festivals.
 
 :::
 
-## Recent Papers
+## Recent Work
 
 Check my latest [papers](publications.qmd#category=papers) and [projects](publications.qmd#category=book-chapters) in the [Research](publications.qmd) section.
 

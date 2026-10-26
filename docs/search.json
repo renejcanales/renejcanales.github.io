@@ -2419,7 +2419,7 @@
     "href": "index.html",
     "title": "René Canales",
     "section": "",
-    "text": "E-mail\n  \n  \n    \n     Github\n  \n  \n    \n     ORCID\n  \n  \n    \n     Google Scholar\n  \n\n  \n  \nHello, I’m René Canales Sellés. I am a sociologist from the Pontifical Catholic University of Chile and hold an M.A. in Sociology from the same institution.\nCurrently, I am a PhD fellow at the Bremen International Graduate School of Social Sciences (BIGSSS) in the CoPoDi Research Program, at the University of Bremen, Germany.\nMy research focuses on the relationship between social movements and political attitudes, with a particular interest in how protest and contentious politics shape social cohesion, public opinion and influence institutional change. Methodologically, I primarily use quantitative approaches, combining observational data with causal inference strategies, survey experiments and computational methods.\nPreviously, I worked as a research assistant for the Social Cohesion Observatory (OCS-COES) and the Laboratory of Social Open Science, both at the Center of Studies of Social Conflict and Social Cohesion (COES). In both individual and collaborative research, I value reproducible practices based on Git, R, and other open-source tools.\nI was born and raised in Santiago de Chile. Outside academia, I enjoy reading, powerlifting, listening to music and attending concerts and festivals."
+    "text": "E-mail\n  \n  \n    \n     Github\n  \n  \n    \n     ORCID\n  \n  \n    \n     Google Scholar\n  \n\n  \n  \nHello, I’m René Canales Sellés. I am a sociologist from the Pontifical Catholic University of Chile and hold an M.A. in Sociology from the same institution.\nCurrently, I am a PhD fellow at the Bremen International Graduate School of Social Sciences (BIGSSS) in the CoPoDi Research Program, at the University of Bremen, Germany.\nMy research focuses on the relationship between social movements and political attitudes, with a particular interest in how protest and contentious politics shape social cohesion, public opinion and influence institutional change. Methodologically, I primarily use quantitative approaches, combining observational data with causal inference strategies, survey experiments and computational methods.\nPreviously, I worked as a research assistant for the Social Cohesion Observatory (OCS-COES) and the Laboratory of Social Open Science, both at the Center of Studies of Social Conflict and Social Cohesion (COES). In both individual and collaborative research, I value reproducible practices based on Git, R, and other open-source tools.\nI was born and raised in Santiago de Chile and now I live in Bremen, Germany. Outside academia, I enjoy reading, powerlifting, listening to music and attending concerts and festivals."
   },
   {
     "objectID": "projects.html",
@@ -2441,5 +2441,12 @@
     "title": "Research projects",
     "section": "",
     "text": "I worked as a research assistant for the Laboratory of Social Open Science (LISA-COES), where I contributed to the development of open science practices in social research. My responsibilities included data management, statistical analysis, and the creation of reproducible research materials using R and Git. I also supported the preparation of academic publications and public engagement materials, fostering transparency and accessibility in social science research."
+  },
+  {
+    "objectID": "index.html#recent-work",
+    "href": "index.html#recent-work",
+    "title": "René Canales",
+    "section": "Recent Work",
+    "text": "Recent Work\nCheck my latest papers and projects in the Research section."
   }
 ]
