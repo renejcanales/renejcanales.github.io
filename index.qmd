@@ -2,7 +2,7 @@
 title: "René Canales"
 subtitle: |
   PhD Fellow \
-  [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/academic-program/daad-graduate-school-scholarship-program/copodi-research-and-faculty) \
+  [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/people/phd-fellows/rene-canales) \
 description-meta: "René Canales is a Sociologist from the Pontifical Catholic University of Chile and holds an M.A. in Sociology from the same institution. Currently, he is a PhD fellow at the Bremen International Graduate School of Social Sciences (BIGSSS). His research focuses on contentious politics, social stratification, political attitudes, and institutional change, using quantitative methods that combine observational data, causal inference, computational methods and survey experiments."
 image: "files/images/rene_canales_profile.JPG"
 page-navigation: false
